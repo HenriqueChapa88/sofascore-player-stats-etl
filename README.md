@@ -79,6 +79,7 @@ Após o processamento, os dados são organizados em um DataFrame Pandas e export
 
 Este projeto foi desenvolvido como parte do meu Trabalho de Conclusão de Curso (TCC), voltado à análise da relação entre o desempenho de jogadores de futebol e os comentários publicados por torcedores nas redes sociais.
 
+
 O objetivo desta etapa foi automatizar a coleta e a estruturação das estatísticas de desempenho dos jogadores no SofaScore, criando uma base de dados que pudesse ser posteriormente relacionada aos comentários coletados nas redes sociais.
 
 Os dados obtidos foram utilizados em etapas posteriores de análise de sentimentos, mineração de dados e identificação de possíveis padrões entre o desempenho esportivo dos jogadores e a percepção dos torcedores.
