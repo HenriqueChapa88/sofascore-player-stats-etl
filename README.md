@@ -1,0 +1,1 @@
+# Extra-o-Automatizada-de-Dados-do-SofaScore
